@@ -28,6 +28,7 @@
       <li>Container styling</li>
       <li>Some header/section/footer styling</li>
     </ul>
+  </section>
 </main>
 
 <style>
