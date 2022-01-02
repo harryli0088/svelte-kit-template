@@ -1,4 +1,8 @@
-# create-svelte
+# Svelte Kit Template
+
+My own Svelte Kit template!
+
+https://harryli0088.github.io/svelte-kit-template/
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
 
