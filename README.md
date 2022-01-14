@@ -35,6 +35,10 @@ npm run dev -- --open
 
 Testing was set up based off this guide: https://www.npmjs.com/package/svelte-jester and this issue: https://github.com/testing-library/react-testing-library/issues/422
 
+```bash
+npm run rest
+```
+
 ## Building
 
 Before creating a production version of your app, install an [adapter](https://kit.svelte.dev/docs#adapters) for your target environment. Then:
