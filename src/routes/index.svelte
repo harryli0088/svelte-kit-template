@@ -23,8 +23,9 @@
     <p>This is my own Svelte Kit template! It includes:</p>
 
     <ul>
-      <li>Fontawesome icons for Svelte</li>
+      <li>Testing set up with Jest and Svelte Testing Library</li>
       <li>GitHub pages set up</li>
+      <li>Fontawesome icons for Svelte</li>
       <li>Container styling</li>
       <li>Some header/section/footer styling</li>
     </ul>
