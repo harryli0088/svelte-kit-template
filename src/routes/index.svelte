@@ -24,7 +24,7 @@
 
     <ul>
       <li>Testing set up with Jest and Svelte Testing Library</li>
-      <li>GitHub pages set up</li>
+      <li>Continuous development with GitHub Actions to GitHub Pages</li>
       <li>Fontawesome icons for Svelte</li>
       <li>Container styling</li>
       <li>Some header/section/footer styling</li>
